@@ -17,9 +17,6 @@ PCB design files are available. Fabrication and hardware testing status: [add st
 - KiCad
 - STM32F103 microcontroller
 
-## Project image
-
-![PCB layout](board-layout.png)
 
 ## Notes
 
